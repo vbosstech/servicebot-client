@@ -1,0 +1,27 @@
+{
+  "name": "servicebot-client",
+  "version": "1.0.0",
+  "description": "Servicebot Client",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/service-bot/servicebot-client.git"
+  },
+  "keywords": [
+    "Servicebot",
+    "client"
+  ],
+  "author": "Kevin Midkiff",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/service-bot/servicebot-client/issues"
+  },
+  "homepage": "https://github.com/service-bot/servicebot-client#readme",
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "request": "^2.83.0"
+  }
+}
