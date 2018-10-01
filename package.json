@@ -1,5 +1,5 @@
 {
-  "name": "servicebot-client",
+  "name": "@eservices/servicebot-client",
   "version": "1.0.3",
   "description": "Servicebot Client",
   "main": "dist/lib/index.js",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/service-bot/servicebot-client.git"
+    "url": "git+https://github.com/vbosstech/servicebot-client.git"
   },
   "keywords": [
     "servicebot",
@@ -19,9 +19,9 @@
   "author": "Kevin Midkiff",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/service-bot/servicebot-client/issues"
+    "url": "https://github.com/vbosstech/servicebot-client/issues"
   },
-  "homepage": "https://github.com/service-bot/servicebot-client#readme",
+  "homepage": "https://github.com/vbosstech/servicebot-client#readme",
   "dependencies": {
     "bluebird": "^3.5.1",
     "request": "^2.83.0"
